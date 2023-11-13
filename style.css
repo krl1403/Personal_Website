@@ -1,0 +1,27 @@
+.search-input {
+    border-style: solid;
+    border-radius: 1rem;
+    border: 1.5px solid whitesmoke;
+    padding: .2rem;
+}
+
+.socmed-links a {
+    font-weight: 700;
+    text-decoration: none;
+    padding: 0rem 1rem 0rem 1rem;
+}
+
+.col-lg-4 img {
+    width: 25rem;
+}
+
+.about-text {
+}
+
+.skills-text {
+    display: none;
+}
+
+.experience-text {
+    display: none;
+}
